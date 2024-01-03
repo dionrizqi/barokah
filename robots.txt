@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /database/
+Disallow: /scripts/ 
+Disallow: /login
+Disallow: /login/
+Disallow: /dashboard
+Disallow: /dashboard/ 
+Allow: /
+
+Sitemap: https://extreme-maintenance.com/extreme_sitemap.xml
